@@ -45,14 +45,14 @@ Todas las traducciones para este repo serán enumeradas abajo:
 4. **[Implícito, Explícito, Nominal, Estructuración y  Escritura de pato](#4-implícito-explícito-nominal-estructuración-y-escritura-de-pato)**
 5. **[== vs === vs typeof](#5--vs--vs-typeof)**
 6. **[Alcance de la función, Ámbito de bloque y alcance léxico](#6-alcance-de-la-función-ámbito-de-bloque-y-alcance-léxico)**
-7. **[Expression vs Statement](#7-expression-vs-statement)**
-8. **[IIFE, módulos y espacios de nombres](#8-iife-módulos-y-espacios-de-nombres)**
+7. **[Expresión vs Declaración](#7-expression-vs-statement)**
+8. **[IIFE, Módulos y Espacios de Nombres](#8-iife-módulos-y-espacios-de-nombres)**
 9. **[Message Queue y Event Loop](#9-message-queue-y-event-loop)**
 10. **[setTimeout, setInterval y requestAnimationFrame](#10-settimeout-setinterval-y-requestanimationframe)**
 11. **[Motores de JavaScript](#11-motores-de-JavaScript)**
 12. **[Bitwise Operators, Type Arrays y Array Buffers](#12-bitwise-operators-type-arrays-y-array-buffers)**
 13. **[DOM y Layout Trees](#13-dom-y-layout-trees)**
-14. **[Factories y Classes](#14-factories-y-classes)**
+14. **[Factorias y Clases](#14-factories-y-classes)**
 15. **[this, call, apply y bind](#15-this-call-apply-y-bind)**
 16. **[new, Constructor, instanceof y Instances](#16-new-constructor-instanceof-y-instances)**
 17. **[Prototype Inheritance y Prototype Chain](#17-prototype-inheritance-y-prototype-chain)**
@@ -62,7 +62,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 21. **[Closures](#21-closures)**
 22. **[High Order Functions](#22-high-order-functions)**
 23. **[Recursion](#23-recursion)**
-24. **[Collections y Generators](#24-collections-y-generators)**
+24. **[Colecciones y Generadores](#24-collections-y-generators)**
 25. **[Promesas](#25-promesas)**
 26. **[async/await](#26-asyncawait)**
 27. **[Estructuras de datos](#27-estructuras-de-datos)**
@@ -223,7 +223,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 
 ---
 
-## 7. Expression vs Statement
+## 7. Expresión vs Declaración
 
 ### Artículos (Inglés)
 
@@ -378,7 +378,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 
 ---
 
-## 14. Factories y Classes
+## 14. Factorias y Clases
 
 ### Artículos (Inglés)
 
@@ -671,7 +671,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 
 ---
 
-## 24. Collections y Generators
+## 24.Colecciones y Generadores
 
 ### Artículos (Inglés)
 
@@ -831,7 +831,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 
 ---
 
-## 30. Herencia, polimorfismo y reutilización de código
+## 30. Herencia, Polimorfismo y Reutilización de Código
 
 ### Artículos (Inglés)
 
@@ -854,7 +854,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 
 ---
 
-## 31. Patrones de diseño
+## 31. Patrones de Diseño
 
 ### Artículos (Inglés)
 
@@ -916,7 +916,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 
 ---
 
-## 33. Código limpio
+## 33. Código Limpio
 
 ### Artículos (Inglés)
 
