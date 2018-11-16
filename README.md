@@ -45,7 +45,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 4. **[Implícito, Explícito, Nominal, Estructuración y  Escritura de pato](#4-implícito-explícito-nominal-estructuración-y-escritura-de-pato)**
 5. **[== vs === vs typeof](#5--vs--vs-typeof)**
 6. **[Alcance de la función, Ámbito de bloque y alcance léxico](#6-alcance-de-la-función-ámbito-de-bloque-y-alcance-léxico)**
-7. **[Expresión vs Declaración](#7-expression-vs-statement)**
+7. **[Expresión vs Declaración](#7-Expresión-vs-Declaración)**
 8. **[IIFE, Módulos y Espacios de Nombres](#8-iife-módulos-y-espacios-de-nombres)**
 9. **[Message Queue y Event Loop](#9-message-queue-y-event-loop)**
 10. **[setTimeout, setInterval y requestAnimationFrame](#10-settimeout-setinterval-y-requestanimationframe)**
@@ -80,12 +80,12 @@ Todas las traducciones para este repo serán enumeradas abajo:
 
 ### Artículos (Inglés)
 
- * 📜 [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
+ * 📜 [Entendiendo Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
  * 📜 [Understanding the JavaScript Call Stack — Charles Freeborn](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
- * 📜 [Javascript: What Is The Execution Context? What Is The Call Stack? — Valentino Gagliardi](https://www.valentinog.com/blog/js-execution-context-call-stack/)
+ * 📜 [Javascript:¿Qué es el contexto de ejecución?? What Is The Call Stack? — Valentino Gagliardi](https://www.valentinog.com/blog/js-execution-context-call-stack/)
  * 📜 [What is the JS Event Loop and Call Stack? — Jess Telford](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
  * 📜 [Call Stack — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
- * 📜 [Understanding Execution Context and Execution Stack in Javascript — Sukhjinder Arora](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
+ * 📜 [Entendiendo el Concepto de Ejecucion and Execution Stack in Javascript — Sukhjinder Arora](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
  * 📜 [How JavaScript Works: An Overview of the Engine, the Runtime, and the Call Stack — Alexander Zlatkov](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
  * 📜 [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
 
